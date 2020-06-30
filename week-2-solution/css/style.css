@@ -1,15 +1,15 @@
 @font-face {
-  	font-family : MagicSchoolOne;
+  	font-family : 'MagicSchoolOne';
 	src: url(https://github.com/DevastrR/Coursera-test/blob/gh-pages/week-2-solution/css/MagicSchoolOne.ttf);
   }
 
 * {
     box-sizing: border-box;
-
+	font-family: 'MagicSchoolOne';
   }
 
 h1 {
-	font-family : MagicSchoolOne;
+	font-family : 'MagicSchoolOne';
     text-align: center;
     color:  #b5651d;
     margin-bottom: 15px;
@@ -24,7 +24,7 @@ body {
 }
 
 p {
-	font-family : MagicSchoolOne;
+	font-family : 'MagicSchoolOne';
 	padding: 10px;
 	margin: 0px 0px 100px 0px;
   color: cyan;
@@ -70,7 +70,7 @@ section > p{
 }
 
 #ElderWand {
-	font-family : MagicSchoolOne;
+	font-family : 'MagicSchoolOne';
     background-color: #00BFFF;
     margin-bottom: 2px;
     opacity: 100%;
@@ -78,7 +78,7 @@ section > p{
 }
 
 #Rstone{
-	font-family : MagicSchoolOne;
+	font-family : 'MagicSchoolOne';
     background-color: #FF1439;
     margin-bottom: 2px;
     opacity: 100%;
@@ -86,7 +86,7 @@ section > p{
 }
 
 #Invicloak {
-	font-family : MagicSchoolOne;
+	font-family : 'MagicSchoolOne';
     background-color: #008000;
     opacity: 100%;
     font-size: 190%;
